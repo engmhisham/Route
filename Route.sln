@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Route.PL", "Route.PL\Route.PL.csproj", "{97E39108-290A-46FB-A64F-B51167D84351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Route.DAL", "Route.DAL\Route.DAL.csproj", "{CF4B857F-9C8C-483E-9255-A5476406D184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Route.BLL", "Route.BLL\Route.BLL.csproj", "{01144407-F2FB-46D6-BA74-4E2BE7757DD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E39108-290A-46FB-A64F-B51167D84351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E39108-290A-46FB-A64F-B51167D84351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E39108-290A-46FB-A64F-B51167D84351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E39108-290A-46FB-A64F-B51167D84351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4B857F-9C8C-483E-9255-A5476406D184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4B857F-9C8C-483E-9255-A5476406D184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4B857F-9C8C-483E-9255-A5476406D184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4B857F-9C8C-483E-9255-A5476406D184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01144407-F2FB-46D6-BA74-4E2BE7757DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01144407-F2FB-46D6-BA74-4E2BE7757DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01144407-F2FB-46D6-BA74-4E2BE7757DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01144407-F2FB-46D6-BA74-4E2BE7757DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3BC03F2-EB54-40DE-AD2B-C4B764CF355E}
+	EndGlobalSection
+EndGlobal
